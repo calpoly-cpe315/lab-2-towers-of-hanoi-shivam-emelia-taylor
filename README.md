@@ -2,12 +2,12 @@
 Towers of Hanoi
 
 ## Names (GitHub username)
-- Emelia Ortiz (eliseemelia)
-- Taylor Bedrosian (taylorbedrosian)
+- Emelia Ortiz (@eliseemelia)
+- Taylor Bedrosian (@taylorbedrosian)
 - Shivam Asija
 
 ## Purpose
-- modify 'towers.s' to perform towers of hanoi in assembly.
+- modify ``towers.s`` to perform towers of hanoi in assembly.
 
 ## Instructions
 - compile with 'make' or 'make towers'
